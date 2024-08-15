@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\models\\todosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\models\\todosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|c:\\mac\\home\\documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\c#\\exam7_rest_api\\exam7_rest_api\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFC0781-E596-4C14-B5CA-DA87859E3320}|Exam7_REST_API\\Exam7_REST_API.csproj|solutionrelative:exam7_rest_api\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "Exam7_REST_API\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:53:34.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "Exam7_REST_API\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:47:24.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam7_REST_API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAADAz8zMzMwnwBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:28:00.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodosModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Models\\TodosModel.cs",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Models\\TodosModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Models\\TodosModel.cs",
+              "RelativeToolTip": "Exam7_REST_API\\Models\\TodosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:42:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "Exam7_REST_API\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:33:32.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Program.cs",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Program.cs",
+              "RelativeToolTip": "Exam7_REST_API\\Program.cs",
+              "ViewState": "AQIAAAEAAABAZmZmZqYowAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:32:56.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoModel.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Models\\TodoModel.cs",
+              "RelativeDocumentMoniker": "Exam7_REST_API\\Models\\TodoModel.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\C#\\Exam7_REST_API\\Exam7_REST_API\\Models\\TodoModel.cs",
+              "RelativeToolTip": "Exam7_REST_API\\Models\\TodoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:25:35.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

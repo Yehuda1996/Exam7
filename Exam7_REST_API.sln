@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam7_REST_API", "Exam7_REST_API\Exam7_REST_API.csproj", "{0BFC0781-E596-4C14-B5CA-DA87859E3320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFC0781-E596-4C14-B5CA-DA87859E3320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFC0781-E596-4C14-B5CA-DA87859E3320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFC0781-E596-4C14-B5CA-DA87859E3320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFC0781-E596-4C14-B5CA-DA87859E3320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FE01F9-B862-409F-A66D-1D4674385575}
+	EndGlobalSection
+EndGlobal
